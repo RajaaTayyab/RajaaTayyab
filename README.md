@@ -1,5 +1,5 @@
 
-Hi, I'm Tayyab Janjua, a Software Engineering student at  with a strong interest in **Cloud Computing**, **Data Analytics**, and **MLOps**. I enjoy building data-driven solutions, creating dashboards, and exploring scalable cloud workflows.
+Hi, I'm Tayyab Janjua, a Software Engineering student with a keen interest in **Cloud Computing**, **Data Analytics**, and **MLOps**. I enjoy building data-driven solutions, creating dashboards, and exploring scalable cloud workflows.
 I’m passionate about solving real-world problems, automating workflows, and continuously learning new technologies in the cloud and machine learning ecosystem.
 
 - ☁️ Interested in Cloud, DevOps, and distributed systems  
