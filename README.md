@@ -18,9 +18,9 @@ I enjoy building data-driven solutions, designing dashboards, and exploring scal
 ### Tech stack
 
 ```
-Languages    Python · C++ · Bash · SQL
-Tools        Docker · Git · GitHub Actions · Linux
-Databases    MySQL
+Languages    Python · C++ · Bash · SQL · HTML · CSS · JS
+Tools        Docker · Git · GitHub Actions · Linux · React Js · Express JS · Node JS 
+Databases    MySQL· MongoDB · Redis · postgreSQL
 Interests    Cloud · DevOps · Data Analytics · ML · Automation
 ```
 
