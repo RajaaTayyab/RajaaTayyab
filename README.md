@@ -16,12 +16,8 @@
 
 ## About Me
 
-**Software Engineering Student · Agentic AI · Backend · DevOps**  
-BS Software Engineering — Air University Islamabad *(2023 – 2027)*
-
-I build systems that reason, automate, and scale. My focus sits at the intersection of **agentic AI** and **production backend engineering** — designing multi-agent pipelines with real tool use, integrating LLMs into deployable systems, and ensuring the infrastructure around them is solid.
-
-I've done real DevOps work — CI/CD pipelines, Docker environments, LAMP stack networking, and Bash automation during my internship at **Eurus Technologies** — which gives me an end-to-end view that most AI-focused engineers don't have.
+**Software Engineering Student · Agentic AI · DevOps**  
+BS Software Engineering  Air University Islamabad *(2023 – 2027)*
 
 - Building production-grade multi-agent AI systems
 - Working with LangGraph, Groq, Ollama, and agentic design patterns
@@ -44,7 +40,7 @@ Four specialist agents — Tool Use, ReAct, Prompt Chaining, and Reflection — 
   <img src="https://img.shields.io/badge/Serper_API-00C9A7?style=flat-square"/>
 </p>
 
-[Repository](https://github.com/RajaaTayyab/Agentic-AI-Pakistan-Travel-PLanner) · [Live Demo](https://agentic-ai-pakistan-travel-planner.onrender.com/)
+· [Live Demo](https://agentic-ai-pakistan-travel-planner.onrender.com/)
 
 ---
 
@@ -91,32 +87,6 @@ Interactive analytics dashboard over 5,000 TMDB films. Budget/revenue/ROI filter
 </p>
 
 [Repository](https://github.com/RajaaTayyab/Data-Projects) · [Live Demo](https://data-projects-7epqoypmgxxoaeepcrbl42.streamlit.app/)
-
----
-
-### [Reflection AI Agent](https://github.com/RajaaTayyab/Reflection-AI-Agent-for-Self-Improving-LLM-System) — Generative AI Design Pattern
-
-Self-improving LLM system using the Reflection design pattern. A Generator and a Critic LLM collaborate iteratively — the Critic reviews for correctness, efficiency, and security, and the Generator revises until the standard is met.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
-</p>
-
-[Repository](https://github.com/RajaaTayyab/Reflection-AI-Agent-for-Self-Improving-LLM-System)
-
----
-
-## Experience
-
-**DevOps Intern — Eurus Technologies** *(Jul 2025 – Oct 2025)*
-
-- Automated routine sysadmin tasks with custom Bash scripts, reducing manual overhead significantly.
-- Configured cross-platform networking between local MySQL and remote Apache, managing firewall rules for a secure LAMP environment.
-- Orchestrated multi-container setups using Docker and Docker Compose with custom YAML for networking and persistent volumes.
-- Built CI/CD pipelines via Jenkins and GitHub Actions, cutting manual deployment cycles substantially.
 
 ---
 
