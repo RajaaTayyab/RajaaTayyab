@@ -28,9 +28,10 @@ BS Software Engineering  Air University Islamabad *(2023 – 2027)*
 
 ## Projects
 
-### [Pakistan AI Travel Planner](https://agentic-ai-pakistan-travel-planner.onrender.com/) — Multi-Agent Agentic AI
+### [Pakistan AI Travel Planner](https://agentic-ai-pakistan-travel-planner.onrender.com/)  Multi-Agent Agentic AI
 
-Four specialist agents — Tool Use, ReAct, Prompt Chaining, and Reflection — running in parallel via `asyncio`, grounded by live Google Search data. Includes real-time PKR budget validation, bilingual English/Urdu output with RTL layout, and graceful degradation across all external dependencies.
+Four specialist agents  Tool Use, ReAct, Prompt Chaining, and Reflection 
+running in parallel via `asyncio`, grounded by live Google Search data. Includes real-time PKR budget validation, bilingual English/Urdu output with RTL layout, and graceful degradation across all external dependencies.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -44,9 +45,9 @@ Four specialist agents — Tool Use, ReAct, Prompt Chaining, and Reflection — 
 
 ---
 
-### [AI-Powered RAG Chatbot](https://github.com/RajaaTayyab/AI-Powered-RAG-Chatbot) — RAG · Vector Search
+### [AI-Powered RAG Chatbot](https://github.com/RajaaTayyab/AI-Powered-RAG-Chatbot)  RAG · Vector Search
 
-Natural language querying over private PDF documents. Semantic search powered by Pinecone vector embeddings with Groq LLaMA-3.1 for generation — grounded responses with no hallucination on private data.
+Natural language querying over private PDF documents. Semantic search powered by Pinecone vector embeddings with Groq LLaMA-3.1 for generation  grounded responses with no hallucination on private data.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -60,9 +61,9 @@ Natural language querying over private PDF documents. Semantic search powered by
 
 ---
 
-### [Multi-Agent FYP Proposal Evaluator](https://github.com/RajaaTayyab/Multi-Agent-FYP-Proposal-Evaluator) — LLM Orchestration
+### [Multi-Agent FYP Proposal Evaluator](https://github.com/RajaaTayyab/Multi-Agent-FYP-Proposal-Evaluator)  LLM Orchestration
 
-Hub-and-spoke multi-agent system that automates academic FYP proposal assessment. Specialist agents operate in strict isolation with scoped context. An Orchestrator layer handles conflict surface detection — flagging contradictions across agent outputs before the final report is assembled.
+Hub-and-spoke multi-agent system that automates academic FYP proposal assessment. Specialist agents operate in strict isolation with scoped context. An Orchestrator layer handles conflict surface detection  flagging contradictions across agent outputs before the final report is assembled.
 
 <p>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
