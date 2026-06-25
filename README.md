@@ -17,9 +17,9 @@
 ## About Me
 
 **Software Engineering Student · Agentic AI · DevOps**  
-BS Software Engineering — Air University Islamabad *(2023 – 2027)*
+BS Software Engineering  Air University Islamabad *(2023 – 2027)*
 
-- Building production-grade multi-agent AI systems
+- Building production grade multi agent AI systems
 - Working with LangGraph, Groq, Ollama, and agentic design patterns
 - Hands-on with Docker, GitHub Actions, Jenkins, and Nginx
 - Currently studying at Air University, Islamabad
@@ -30,7 +30,7 @@ BS Software Engineering — Air University Islamabad *(2023 – 2027)*
 
 ### [Pakistan AI Travel Planner](https://agentic-ai-pakistan-travel-planner.onrender.com/) — Multi-Agent Agentic AI
 
-Four specialist agents — Tool Use, ReAct, Prompt Chaining, and Reflection — running in parallel via `asyncio`, grounded by live Google Search data. Includes real-time PKR budget validation, bilingual English/Urdu output with RTL layout, and graceful degradation across all external dependencies.
+Four specialist agents  Tool Use, ReAct, Prompt Chaining, and Reflection — running in parallel via `asyncio`, grounded by live Google Search data. Includes real-time PKR budget validation, bilingual English/Urdu output with RTL layout, and graceful degradation across all external dependencies.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -44,9 +44,9 @@ Four specialist agents — Tool Use, ReAct, Prompt Chaining, and Reflection — 
 
 ---
 
-### [AI-Powered RAG Chatbot](https://github.com/RajaaTayyab/AI-Powered-RAG-Chatbot) — RAG · Vector Search
+### [AI-Powered RAG Chatbot](https://github.com/RajaaTayyab/AI-Powered-RAG-Chatbot)  RAG · Vector Search
 
-Natural language querying over private PDF documents. Semantic search powered by Pinecone vector embeddings with Groq LLaMA-3.1 for generation — grounded responses with no hallucination on private data.
+Natural language querying over private PDF documents. Semantic search powered by Pinecone vector embeddings with Groq LLaMA-3.1 for generation  grounded responses with no hallucination on private data.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -60,9 +60,9 @@ Natural language querying over private PDF documents. Semantic search powered by
 
 ---
 
-### [Multi-Agent FYP Proposal Evaluator](https://github.com/RajaaTayyab/Multi-Agent-FYP-Proposal-Evaluator) — LLM Orchestration
+### [Multi-Agent FYP Proposal Evaluator](https://github.com/RajaaTayyab/Multi-Agent-FYP-Proposal-Evaluator)  LLM Orchestration
 
-Hub-and-spoke multi-agent system that automates academic FYP proposal assessment. Specialist agents operate in strict isolation with scoped context. An Orchestrator layer handles conflict surface detection — flagging contradictions across agent outputs before the final report is assembled.
+Hub-and-spoke multi-agent system that automates academic FYP proposal assessment. Specialist agents operate in strict isolation with scoped context. An Orchestrator layer handles conflict surface detection flagging contradictions across agent outputs before the final report is assembled.
 
 <p>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
@@ -75,9 +75,9 @@ Hub-and-spoke multi-agent system that automates academic FYP proposal assessment
 
 ---
 
-### [Cinematrics Intelligence Dashboard](https://data-projects-7epqoypmgxxoaeepcrbl42.streamlit.app/) — Data Analytics
+### [Cinematrics Intelligence Dashboard](https://data-projects-7epqoypmgxxoaeepcrbl42.streamlit.app/) Data Analytics
 
-Interactive analytics dashboard over 5,000 TMDB films. Budget/revenue/ROI filters, break-even scatter plot, genre performance analysis, popularity trends, and a top-10 leaderboard — all in a custom dark cinematic theme.
+Interactive analytics dashboard over 5,000 TMDB films. Budget/revenue/ROI filters, break-even scatter plot, genre performance analysis, popularity trends, and a top-10 leaderboard all in a custom dark cinematic theme.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -151,17 +151,7 @@ Interactive analytics dashboard over 5,000 TMDB films. Budget/revenue/ROI filter
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaaTayyab&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="60%"/>
 </p>
 
-<!-- Row 3: Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajaaTayyab&theme=tokyo-night&hide_border=true&area=true&area_color=6C63FF&color=6C63FF&line=6C63FF&point=ffffff" alt="Contribution Graph" width="95%"/>
-</p>
-
-<!-- Row 4: Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RajaaTayyab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" width="95%"/>
-</p>
-
-<!-- Row 5: Profile Summary Card -->
+<!-- Row 3: Profile Summary Card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajaaTayyab&theme=tokyonight" alt="Profile Summary" width="95%"/>
 </p>
