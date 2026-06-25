@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tayyab Ahmed Janjua</h1>
+<h1 align="center">Hii, I'm Tayyab Ahmed Janjua</h1>
 
 <p align="center">
   <a href="https://tayyab-janjua-portfolio.vercel.app">
@@ -43,6 +43,20 @@ Four specialist agents  Tool Use, ReAct, Prompt Chaining, and Reflection  runnin
 [Live Demo](https://agentic-ai-pakistan-travel-planner.onrender.com/)
 
 ---
+### [Cinematrics Intelligence Dashboard](https://data-projects-7epqoypmgxxoaeepcrbl42.streamlit.app/) Data Analytics
+
+Interactive analytics dashboard over 5,000 TMDB films. Budget/revenue/ROI filters, break-even scatter plot, genre performance analysis, popularity trends, and a top-10 leaderboard all in a custom dark cinematic theme.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+</p>
+
+[Repository](https://github.com/RajaaTayyab/Data-Projects) · [Live Demo](https://data-projects-7epqoypmgxxoaeepcrbl42.streamlit.app/)
+
+---
 
 ### [AI-Powered RAG Chatbot](https://github.com/RajaaTayyab/AI-Powered-RAG-Chatbot)  RAG · Vector Search
 
@@ -74,22 +88,6 @@ Hub-and-spoke multi-agent system that automates academic FYP proposal assessment
 [Repository](https://github.com/RajaaTayyab/Multi-Agent-FYP-Proposal-Evaluator)
 
 ---
-
-### [Cinematrics Intelligence Dashboard](https://data-projects-7epqoypmgxxoaeepcrbl42.streamlit.app/) Data Analytics
-
-Interactive analytics dashboard over 5,000 TMDB films. Budget/revenue/ROI filters, break-even scatter plot, genre performance analysis, popularity trends, and a top-10 leaderboard all in a custom dark cinematic theme.
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-</p>
-
-[Repository](https://github.com/RajaaTayyab/Data-Projects) · [Live Demo](https://data-projects-7epqoypmgxxoaeepcrbl42.streamlit.app/)
-
----
-
 ## Tech Stack
 
 **AI & Machine Learning**
