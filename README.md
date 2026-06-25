@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://tayyab-janjua-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Dev+Ops;FastAPI+%7C+RAG+%7C+LangGraph;DevOps+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C;FastAPI+%7C+RAG+%7C+LangGraph;DevOps+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 ## About Me
 
 **Software Engineering Student**  
-BS Software Engineering  Air University Islamabad *(2023 – 2027)*
+BS Software Engineering  Air University Islamabad *(2023 – 2027)* 
 
 - Building production grade multi agent AI systems
 - Working with LangGraph, Groq, Ollama, and agentic design patterns
