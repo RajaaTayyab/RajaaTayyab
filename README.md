@@ -16,7 +16,7 @@
 
 ## About Me
 
-**Software Engineering Student **  
+**Software Engineering Student**  
 BS Software Engineering  Air University Islamabad *(2023 – 2027)*
 
 - Building production grade multi agent AI systems
