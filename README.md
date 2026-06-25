@@ -28,9 +28,9 @@ BS Software Engineering  Air University Islamabad *(2023 – 2027)*
 
 ## Projects
 
-### [Pakistan AI Travel Planner](https://agentic-ai-pakistan-travel-planner.onrender.com/) — Multi-Agent Agentic AI
+### [Pakistan AI Travel Planner](https://agentic-ai-pakistan-travel-planner.onrender.com/)  Multi-Agent Agentic AI
 
-Four specialist agents  Tool Use, ReAct, Prompt Chaining, and Reflection — running in parallel via `asyncio`, grounded by live Google Search data. Includes real-time PKR budget validation, bilingual English/Urdu output with RTL layout, and graceful degradation across all external dependencies.
+Four specialist agents  Tool Use, ReAct, Prompt Chaining, and Reflection  running in parallel via `asyncio`, grounded by live Google Search data. Includes real-time PKR budget validation, bilingual English/Urdu output with RTL layout, and graceful degradation across all external dependencies.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -40,7 +40,7 @@ Four specialist agents  Tool Use, ReAct, Prompt Chaining, and Reflection — run
   <img src="https://img.shields.io/badge/Serper_API-00C9A7?style=flat-square"/>
 </p>
 
-[Repository](https://github.com/RajaaTayyab/Agentic-AI-Pakistan-Travel-PLanner) · [Live Demo](https://agentic-ai-pakistan-travel-planner.onrender.com/)
+[Live Demo](https://agentic-ai-pakistan-travel-planner.onrender.com/)
 
 ---
 
