@@ -1,33 +1,200 @@
-# Hi, I'm Tayyab Janjua
+<h1 align="center">Hi, I'm Tayyab Ahmed Janjua</h1>
 
-Software Engineering student at Air University, Rawalpindi — focused on **Cloud Computing** and **Data Analytics**.
+<p align="center">
+  <a href="https://tayyab-janjua-portfolio.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Agentic+AI;Building+Multi-Agent+LLM+Systems;FastAPI+%7C+RAG+%7C+LangGraph;DevOps+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
+  </a>
+</p>
 
-I enjoy building data-driven solutions, designing dashboards, and exploring scalable cloud and automation workflows. My current interests span DevOps, ML pipelines, and no-code automation tools like Make.com and Zapier.
-
----
-
-### What I'm working on
-
-- Exploring Cloud infrastructure, DevOps practices, and distributed systems
-- Developing skills in Data Analytics & ML pipelines
-- Hands-on with Docker, Linux, Python, MySQL, and GitHub Actions
-- Building toward automation and AI-assisted workflows
-
----
-
-### Tech stack
-
-```
-Languages    Python · C++ · Bash · SQL · HTML · CSS · JS
-Tools        Docker · Git · GitHub Actions · Linux · React Js · Express JS · Node JS 
-Databases    MySQL· MongoDB · Redis · postgreSQL
-Interests    Cloud · DevOps · Data Analytics · ML · Automation
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RajaaTayyab&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Open_To-Internships_%26_Collaborations-6C63FF?style=for-the-badge" alt="Open To Work"/>
+  <img src="https://img.shields.io/badge/Based_In-Islamabad,_Pakistan-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
 
 ---
 
-### Connect
+## About Me
 
-- **Email:** tayyabjanjua14@gmail.com
-- **LinkedIn:** [tayyab-janjua-8479a7247](https://www.linkedin.com/in/tayyab-janjua-8479a7247/)
-- **GitHub:** [rajaatayyab](https://github.com/rajaatayyab)
+**Software Engineering Student · Agentic AI · Backend · DevOps**  
+BS Software Engineering — Air University Islamabad *(2023 – 2027)*
+
+I build systems that reason, automate, and scale. My focus sits at the intersection of **agentic AI** and **production backend engineering** — designing multi-agent pipelines with real tool use, integrating LLMs into deployable systems, and ensuring the infrastructure around them is solid.
+
+I've done real DevOps work — CI/CD pipelines, Docker environments, LAMP stack networking, and Bash automation during my internship at **Eurus Technologies** — which gives me an end-to-end view that most AI-focused engineers don't have.
+
+- Building production-grade multi-agent AI systems
+- Working with LangGraph, Groq, Ollama, and agentic design patterns
+- Hands-on with Docker, GitHub Actions, Jenkins, and Nginx
+- Currently studying at Air University, Islamabad
+
+---
+
+## Projects
+
+### [Pakistan AI Travel Planner](https://agentic-ai-pakistan-travel-planner.onrender.com/) — Multi-Agent Agentic AI
+
+Four specialist agents — Tool Use, ReAct, Prompt Chaining, and Reflection — running in parallel via `asyncio`, grounded by live Google Search data. Includes real-time PKR budget validation, bilingual English/Urdu output with RTL layout, and graceful degradation across all external dependencies.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Serper_API-00C9A7?style=flat-square"/>
+</p>
+
+[Repository](https://github.com/RajaaTayyab/Agentic-AI-Pakistan-Travel-PLanner) · [Live Demo](https://agentic-ai-pakistan-travel-planner.onrender.com/)
+
+---
+
+### [AI-Powered RAG Chatbot](https://github.com/RajaaTayyab/AI-Powered-RAG-Chatbot) — RAG · Vector Search
+
+Natural language querying over private PDF documents. Semantic search powered by Pinecone vector embeddings with Groq LLaMA-3.1 for generation — grounded responses with no hallucination on private data.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLaMA--3.1-6C63FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square"/>
+</p>
+
+[Repository](https://github.com/RajaaTayyab/AI-Powered-RAG-Chatbot)
+
+---
+
+### [Multi-Agent FYP Proposal Evaluator](https://github.com/RajaaTayyab/Multi-Agent-FYP-Proposal-Evaluator) — LLM Orchestration
+
+Hub-and-spoke multi-agent system that automates academic FYP proposal assessment. Specialist agents operate in strict isolation with scoped context. An Orchestrator layer handles conflict surface detection — flagging contradictions across agent outputs before the final report is assembled.
+
+<p>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white"/>
+</p>
+
+[Repository](https://github.com/RajaaTayyab/Multi-Agent-FYP-Proposal-Evaluator)
+
+---
+
+### [Cinematrics Intelligence Dashboard](https://data-projects-7epqoypmgxxoaeepcrbl42.streamlit.app/) — Data Analytics
+
+Interactive analytics dashboard over 5,000 TMDB films. Budget/revenue/ROI filters, break-even scatter plot, genre performance analysis, popularity trends, and a top-10 leaderboard — all in a custom dark cinematic theme.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+</p>
+
+[Repository](https://github.com/RajaaTayyab/Data-Projects) · [Live Demo](https://data-projects-7epqoypmgxxoaeepcrbl42.streamlit.app/)
+
+---
+
+### [Reflection AI Agent](https://github.com/RajaaTayyab/Reflection-AI-Agent-for-Self-Improving-LLM-System) — Generative AI Design Pattern
+
+Self-improving LLM system using the Reflection design pattern. A Generator and a Critic LLM collaborate iteratively — the Critic reviews for correctness, efficiency, and security, and the Generator revises until the standard is met.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-FF6B35?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+</p>
+
+[Repository](https://github.com/RajaaTayyab/Reflection-AI-Agent-for-Self-Improving-LLM-System)
+
+---
+
+## Experience
+
+**DevOps Intern — Eurus Technologies** *(Jul 2025 – Oct 2025)*
+
+- Automated routine sysadmin tasks with custom Bash scripts, reducing manual overhead significantly.
+- Configured cross-platform networking between local MySQL and remote Apache, managing firewall rules for a secure LAMP environment.
+- Orchestrated multi-container setups using Docker and Docker Compose with custom YAML for networking and persistent volumes.
+- Built CI/CD pipelines via Jenkins and GitHub Actions, cutting manual deployment cycles substantially.
+
+---
+
+## Tech Stack
+
+**AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+</p>
+
+**LLM & Agentic AI**
+<p>
+  <img src="https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Backend & APIs**
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajaaTayyab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaaTayyab&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaaTayyab&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+  <a href="https://tayyab-janjua-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-tayyab--janjua.vercel.app-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tayyab-ahmed-janjua-8479a7247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Tayyab_Janjua-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:tayyabjanjua14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tayyabjanjua14@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center"><i>BS Software Engineering · Air University Islamabad · 2023 – 2027</i></p>
