@@ -138,29 +138,25 @@ Hub-and-spoke multi-agent system that automates academic FYP proposal assessment
 
 ## GitHub Stats
 
-<!-- Row 1: Main stats + Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajaaTayyab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaaTayyab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</p>
 
-<!-- Row 2: Streak -->
+
+<!--  Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaaTayyab&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="60%"/>
 </p>
 
-<!-- Row 3: Profile Summary Card -->
+<!--  Profile Summary Card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajaaTayyab&theme=tokyonight" alt="Profile Summary" width="95%"/>
 </p>
 
-<!-- Row 6: Repos per language + Commits per language -->
+<!-- : Repos per language + Commits per language -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaaTayyab&theme=tokyonight" height="180" alt="Repos Per Language"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaaTayyab&theme=tokyonight" height="180" alt="Most Commit Language"/>
 </p>
 
-<!-- Row 7: Productive time + Stats -->
+<!--  Productive time + Stats -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajaaTayyab&theme=tokyonight&utcOffset=5" height="180" alt="Productive Time"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajaaTayyab&theme=tokyonight" height="180" alt="Stats"/>
