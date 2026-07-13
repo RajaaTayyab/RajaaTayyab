@@ -138,15 +138,6 @@ Hub-and-spoke multi-agent system that automates academic FYP proposal assessment
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaaTayyab&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="60%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajaaTayyab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaaTayyab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%"/>
-</p>
-
 
 
 <!--  Streak -->
