@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RajaaTayyab&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Open_To-Internships_%26_Collaborations-6C63FF?style=for-the-badge" alt="Open To Work"/>
+  <img src="https://img.shields.io/badge/Open_To-Work_%26_Collaborations-6C63FF?style=for-the-badge" alt="Open To Work"/>
   <img src="https://img.shields.io/badge/Based_In-Islamabad,_Pakistan-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
