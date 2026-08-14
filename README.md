@@ -7,7 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RajaaTayyab&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Open_To-Work_%26_Collaborations-6C63FF?style=for-the-badge" alt="Open To Work"/>
   <img src="https://img.shields.io/badge/Based_In-Islamabad,_Pakistan-00C9A7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
@@ -146,9 +145,26 @@ Hub-and-spoke multi-agent system for automated FYP proposal assessment. An orche
 
 ## GitHub Stats
 
+<!--  Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajaaTayyab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaaTayyab&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajaaTayyab&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="60%"/>
+</p>
+
+<!--  Profile Summary Card -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RajaaTayyab&theme=tokyonight" alt="Profile Summary" width="95%"/>
+</p>
+
+<!-- : Repos per language + Commits per language -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RajaaTayyab&theme=tokyonight" height="180" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RajaaTayyab&theme=tokyonight" height="180" alt="Most Commit Language"/>
+</p>
+
+<!--  Productive time + Stats -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RajaaTayyab&theme=tokyonight&utcOffset=5" height="180" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RajaaTayyab&theme=tokyonight" height="180" alt="Stats"/>
 </p>
 
 ---
